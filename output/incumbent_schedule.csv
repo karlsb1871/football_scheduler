@@ -1,0 +1,381 @@
+Date,Home,Away,Midweek
+2023-08-12,Bournemouth,Liverpool,False
+2023-08-12,Brentford,Aston Villa,False
+2023-08-12,Burnley,Nottingham Forest,False
+2023-08-12,Crystal Palace,Newcastle United,False
+2023-08-12,Everton,Chelsea,False
+2023-08-12,Manchester City,Luton Town,False
+2023-08-12,Manchester United,Arsenal,False
+2023-08-12,Tottenham Hotspur,Fulham,False
+2023-08-12,West Ham United,Sheffield United,False
+2023-08-12,Wolverhampton Wanderers,Brighton and Hove Albion,False
+2023-08-15,Aston Villa,Arsenal,True
+2023-08-15,Bournemouth,Chelsea,True
+2023-08-15,Brighton and Hove Albion,Burnley,True
+2023-08-15,Crystal Palace,Brentford,True
+2023-08-15,Everton,Nottingham Forest,True
+2023-08-15,Manchester City,Liverpool,True
+2023-08-15,Manchester United,Sheffield United,True
+2023-08-15,Tottenham Hotspur,Luton Town,True
+2023-08-15,West Ham United,Newcastle United,True
+2023-08-15,Wolverhampton Wanderers,Fulham,True
+2023-08-19,Aston Villa,Newcastle United,False
+2023-08-19,Bournemouth,Nottingham Forest,False
+2023-08-19,Burnley,Fulham,False
+2023-08-19,Crystal Palace,Arsenal,False
+2023-08-19,Everton,Luton Town,False
+2023-08-19,Liverpool,Tottenham Hotspur,False
+2023-08-19,Manchester City,Chelsea,False
+2023-08-19,Manchester United,Brentford,False
+2023-08-19,West Ham United,Brighton and Hove Albion,False
+2023-08-19,Wolverhampton Wanderers,Sheffield United,False
+2023-08-22,Arsenal,Tottenham Hotspur,True
+2023-08-22,Bournemouth,Sheffield United,True
+2023-08-22,Burnley,Brentford,True
+2023-08-22,Crystal Palace,Nottingham Forest,True
+2023-08-22,Everton,Brighton and Hove Albion,True
+2023-08-22,Liverpool,Aston Villa,True
+2023-08-22,Manchester United,Chelsea,True
+2023-08-22,Newcastle United,Manchester City,True
+2023-08-22,Wolverhampton Wanderers,Luton Town,True
+2023-08-26,Aston Villa,Manchester City,False
+2023-08-26,Brentford,Sheffield United,False
+2023-08-26,Chelsea,Arsenal,False
+2023-08-26,Crystal Palace,Brighton and Hove Albion,False
+2023-08-26,Everton,Newcastle United,False
+2023-08-26,Luton Town,Burnley,False
+2023-08-26,Manchester United,Fulham,False
+2023-08-26,Tottenham Hotspur,Nottingham Forest,False
+2023-08-26,West Ham United,Bournemouth,False
+2023-08-26,Wolverhampton Wanderers,Liverpool,False
+2023-08-29,Aston Villa,Bournemouth,True
+2023-08-29,Brighton and Hove Albion,Arsenal,True
+2023-08-29,Burnley,West Ham United,True
+2023-08-29,Everton,Crystal Palace,True
+2023-08-29,Fulham,Brentford,True
+2023-08-29,Liverpool,Chelsea,True
+2023-08-29,Luton Town,Sheffield United,True
+2023-08-29,Manchester United,Manchester City,True
+2023-08-29,Nottingham Forest,Wolverhampton Wanderers,True
+2023-09-02,Arsenal,Nottingham Forest,False
+2023-09-02,Bournemouth,Crystal Palace,False
+2023-09-02,Brighton and Hove Albion,Sheffield United,False
+2023-09-02,Everton,Aston Villa,False
+2023-09-02,Manchester City,Manchester United,False
+2023-09-02,Newcastle United,Liverpool,False
+2023-09-02,Tottenham Hotspur,Brentford,False
+2023-09-02,West Ham United,Chelsea,False
+2023-09-02,Wolverhampton Wanderers,Burnley,False
+2023-09-16,Arsenal,Liverpool,False
+2023-09-16,Brentford,Chelsea,False
+2023-09-16,Everton,Bournemouth,False
+2023-09-16,Manchester City,Burnley,False
+2023-09-16,Newcastle United,Nottingham Forest,False
+2023-09-16,Sheffield United,Fulham,False
+2023-09-16,Tottenham Hotspur,Crystal Palace,False
+2023-09-16,West Ham United,Aston Villa,False
+2023-09-16,Wolverhampton Wanderers,Manchester United,False
+2023-09-19,Arsenal,Luton Town,True
+2023-09-19,Burnley,Bournemouth,True
+2023-09-19,Chelsea,Brighton and Hove Albion,True
+2023-09-19,Everton,Manchester United,True
+2023-09-19,Newcastle United,Fulham,True
+2023-09-19,Sheffield United,Nottingham Forest,True
+2023-09-19,West Ham United,Liverpool,True
+2023-09-19,Wolverhampton Wanderers,Crystal Palace,True
+2023-09-23,Brighton and Hove Albion,Luton Town,False
+2023-09-23,Chelsea,Liverpool,False
+2023-09-23,Crystal Palace,Everton,False
+2023-09-23,Fulham,Newcastle United,False
+2023-09-23,Manchester United,Tottenham Hotspur,False
+2023-09-23,West Ham United,Wolverhampton Wanderers,False
+2023-09-26,Arsenal,Brighton and Hove Albion,True
+2023-09-26,Bournemouth,Everton,True
+2023-09-26,Brentford,Liverpool,True
+2023-09-26,Burnley,Manchester City,True
+2023-09-26,Crystal Palace,West Ham United,True
+2023-09-26,Fulham,Luton Town,True
+2023-09-26,Nottingham Forest,Chelsea,True
+2023-09-26,Wolverhampton Wanderers,Aston Villa,True
+2023-09-30,Arsenal,Chelsea,False
+2023-09-30,Aston Villa,Luton Town,False
+2023-09-30,Bournemouth,Tottenham Hotspur,False
+2023-09-30,Brentford,Fulham,False
+2023-09-30,Brighton and Hove Albion,West Ham United,False
+2023-09-30,Crystal Palace,Burnley,False
+2023-09-30,Everton,Manchester City,False
+2023-09-30,Liverpool,Newcastle United,False
+2023-10-03,Arsenal,Crystal Palace,True
+2023-10-03,Bournemouth,West Ham United,True
+2023-10-03,Brentford,Everton,True
+2023-10-03,Brighton and Hove Albion,Newcastle United,True
+2023-10-03,Luton Town,Tottenham Hotspur,True
+2023-10-03,Manchester United,Burnley,True
+2023-10-03,Wolverhampton Wanderers,Nottingham Forest,True
+2023-10-07,Arsenal,Sheffield United,False
+2023-10-07,Brentford,Luton Town,False
+2023-10-07,Chelsea,Newcastle United,False
+2023-10-07,Crystal Palace,Tottenham Hotspur,False
+2023-10-07,Fulham,Burnley,False
+2023-10-07,Manchester United,Everton,False
+2023-10-07,West Ham United,Manchester City,False
+2023-10-21,Arsenal,West Ham United,False
+2023-10-21,Burnley,Brighton and Hove Albion,False
+2023-10-21,Crystal Palace,Chelsea,False
+2023-10-21,Fulham,Everton,False
+2023-10-21,Liverpool,Bournemouth,False
+2023-10-21,Luton Town,Manchester United,False
+2023-10-21,Manchester City,Aston Villa,False
+2023-10-24,Bournemouth,Luton Town,True
+2023-10-24,Chelsea,Tottenham Hotspur,True
+2023-10-24,Fulham,West Ham United,True
+2023-10-24,Liverpool,Wolverhampton Wanderers,True
+2023-10-24,Manchester City,Newcastle United,True
+2023-10-24,Nottingham Forest,Aston Villa,True
+2023-10-24,Sheffield United,Manchester United,True
+2023-10-28,Brighton and Hove Albion,Manchester City,False
+2023-10-28,Chelsea,West Ham United,False
+2023-10-28,Fulham,Aston Villa,False
+2023-10-28,Liverpool,Everton,False
+2023-10-28,Luton Town,Brentford,False
+2023-10-28,Newcastle United,Arsenal,False
+2023-10-28,Nottingham Forest,Crystal Palace,False
+2023-10-28,Sheffield United,Wolverhampton Wanderers,False
+2023-10-31,Aston Villa,Tottenham Hotspur,True
+2023-10-31,Bournemouth,Brighton and Hove Albion,True
+2023-10-31,Chelsea,Wolverhampton Wanderers,True
+2023-10-31,Crystal Palace,Liverpool,True
+2023-10-31,Newcastle United,West Ham United,True
+2023-10-31,Nottingham Forest,Brentford,True
+2023-11-04,Fulham,Arsenal,False
+2023-11-04,Newcastle United,Burnley,False
+2023-11-04,Nottingham Forest,Bournemouth,False
+2023-11-04,Sheffield United,Chelsea,False
+2023-11-04,West Ham United,Tottenham Hotspur,False
+2023-11-07,Brentford,Crystal Palace,True
+2023-11-07,Burnley,Aston Villa,True
+2023-11-07,Fulham,Manchester United,True
+2023-11-07,Liverpool,Brighton and Hove Albion,True
+2023-11-07,Luton Town,West Ham United,True
+2023-11-07,Newcastle United,Wolverhampton Wanderers,True
+2023-11-07,Sheffield United,Tottenham Hotspur,True
+2023-11-11,Brentford,Manchester City,False
+2023-11-11,Brighton and Hove Albion,Chelsea,False
+2023-11-11,Burnley,Everton,False
+2023-11-11,Liverpool,Nottingham Forest,False
+2023-11-11,Newcastle United,Bournemouth,False
+2023-11-11,Sheffield United,Arsenal,False
+2023-11-11,West Ham United,Manchester United,False
+2023-11-11,Wolverhampton Wanderers,Tottenham Hotspur,False
+2023-11-25,Arsenal,Wolverhampton Wanderers,False
+2023-11-25,Brighton and Hove Albion,Everton,False
+2023-11-25,Liverpool,Luton Town,False
+2023-11-25,Manchester United,Crystal Palace,False
+2023-11-25,Nottingham Forest,Tottenham Hotspur,False
+2023-11-28,Brighton and Hove Albion,Tottenham Hotspur,True
+2023-11-28,Sheffield United,Brentford,True
+2023-12-02,Aston Villa,West Ham United,False
+2023-12-02,Burnley,Chelsea,False
+2023-12-02,Tottenham Hotspur,Wolverhampton Wanderers,False
+2023-12-05,Aston Villa,Brentford,True
+2023-12-05,Newcastle United,Tottenham Hotspur,True
+2023-12-09,Arsenal,Brentford,False
+2023-12-09,Bournemouth,Aston Villa,False
+2023-12-09,Chelsea,Manchester City,False
+2023-12-09,Fulham,Brighton and Hove Albion,False
+2023-12-09,Luton Town,Everton,False
+2023-12-12,Bournemouth,Wolverhampton Wanderers,True
+2023-12-12,Burnley,Liverpool,True
+2023-12-12,Fulham,Nottingham Forest,True
+2023-12-12,Manchester City,Tottenham Hotspur,True
+2023-12-12,Sheffield United,Crystal Palace,True
+2023-12-16,Brighton and Hove Albion,Aston Villa,False
+2023-12-16,Burnley,Wolverhampton Wanderers,False
+2023-12-16,West Ham United,Fulham,False
+2023-12-19,Arsenal,Burnley,True
+2023-12-19,Chelsea,Manchester United,True
+2023-12-19,Sheffield United,Brighton and Hove Albion,True
+2023-12-19,Wolverhampton Wanderers,Bournemouth,True
+2023-12-23,Chelsea,Brentford,False
+2023-12-23,Fulham,Crystal Palace,False
+2023-12-26,Nottingham Forest,Arsenal,True
+2023-12-26,Tottenham Hotspur,Liverpool,True
+2023-12-26,West Ham United,Brentford,True
+2023-12-30,Arsenal,Manchester City,False
+2023-12-30,Brighton and Hove Albion,Liverpool,False
+2023-12-30,Burnley,Sheffield United,False
+2023-12-30,Nottingham Forest,Fulham,False
+2024-01-09,Burnley,Tottenham Hotspur,True
+2024-01-09,Chelsea,Aston Villa,True
+2024-01-09,Manchester United,Liverpool,True
+2024-01-09,Nottingham Forest,Manchester City,True
+2024-01-13,Luton Town,Fulham,False
+2024-01-13,Manchester City,Everton,False
+2024-01-16,Aston Villa,Manchester United,True
+2024-01-16,Chelsea,Luton Town,True
+2024-01-16,Everton,Arsenal,True
+2024-01-16,Manchester City,Brentford,True
+2024-01-20,Arsenal,Manchester United,False
+2024-01-20,Aston Villa,Chelsea,False
+2024-01-20,West Ham United,Crystal Palace,False
+2024-01-23,Aston Villa,Wolverhampton Wanderers,True
+2024-01-23,Bournemouth,Brentford,True
+2024-01-27,Arsenal,Newcastle United,False
+2024-01-27,Luton Town,Chelsea,False
+2024-01-27,Manchester City,West Ham United,False
+2024-01-30,Brighton and Hove Albion,Manchester United,True
+2024-01-30,Crystal Palace,Bournemouth,True
+2024-01-30,Fulham,Chelsea,True
+2024-01-30,Luton Town,Liverpool,True
+2024-02-03,Brighton and Hove Albion,Crystal Palace,False
+2024-02-03,Sheffield United,Bournemouth,False
+2024-02-03,West Ham United,Everton,False
+2024-02-06,Crystal Palace,Aston Villa,True
+2024-02-06,Manchester City,Bournemouth,True
+2024-02-06,Nottingham Forest,Manchester United,True
+2024-02-06,West Ham United,Burnley,True
+2024-02-10,Aston Villa,Everton,False
+2024-02-10,Brentford,Wolverhampton Wanderers,False
+2024-02-10,Tottenham Hotspur,Bournemouth,False
+2024-02-13,Fulham,Tottenham Hotspur,True
+2024-02-13,Manchester City,Wolverhampton Wanderers,True
+2024-02-13,Newcastle United,Everton,True
+2024-02-13,Sheffield United,Luton Town,True
+2024-02-17,Newcastle United,Brentford,False
+2024-02-17,Sheffield United,Manchester City,False
+2024-02-20,Chelsea,Everton,True
+2024-02-20,Fulham,Sheffield United,True
+2024-02-20,Newcastle United,Crystal Palace,True
+2024-02-20,Wolverhampton Wanderers,Brentford,True
+2024-02-24,Fulham,Wolverhampton Wanderers,False
+2024-02-24,Newcastle United,Manchester United,False
+2024-02-24,Nottingham Forest,Brighton and Hove Albion,False
+2024-02-24,Tottenham Hotspur,Arsenal,False
+2024-02-27,Aston Villa,Liverpool,True
+2024-02-27,Brentford,Manchester United,True
+2024-02-27,Newcastle United,Luton Town,True
+2024-02-27,Nottingham Forest,Everton,True
+2024-02-27,Sheffield United,West Ham United,True
+2024-02-27,Tottenham Hotspur,Manchester City,True
+2024-03-02,Liverpool,Brentford,False
+2024-03-02,Nottingham Forest,Luton Town,False
+2024-03-02,Sheffield United,Aston Villa,False
+2024-03-02,Tottenham Hotspur,Manchester United,False
+2024-03-05,Brentford,Burnley,True
+2024-03-05,Brighton and Hove Albion,Wolverhampton Wanderers,True
+2024-03-05,Chelsea,Bournemouth,True
+2024-03-05,Luton Town,Manchester City,True
+2024-03-05,Newcastle United,Aston Villa,True
+2024-03-05,Nottingham Forest,West Ham United,True
+2024-03-05,Sheffield United,Everton,True
+2024-03-09,Arsenal,Bournemouth,False
+2024-03-09,Luton Town,Wolverhampton Wanderers,False
+2024-03-09,Manchester City,Crystal Palace,False
+2024-03-09,Manchester United,Nottingham Forest,False
+2024-03-12,Crystal Palace,Luton Town,True
+2024-03-12,Everton,West Ham United,True
+2024-03-12,Fulham,Bournemouth,True
+2024-03-12,Nottingham Forest,Burnley,True
+2024-03-16,Brighton and Hove Albion,Bournemouth,False
+2024-03-16,Burnley,Luton Town,False
+2024-03-16,Manchester City,Fulham,False
+2024-03-16,Manchester United,West Ham United,False
+2024-03-16,Sheffield United,Liverpool,False
+2024-03-30,Brentford,Brighton and Hove Albion,False
+2024-03-30,Liverpool,Arsenal,False
+2024-03-30,Luton Town,Bournemouth,False
+2024-03-30,Tottenham Hotspur,Everton,False
+2024-04-02,Liverpool,Fulham,True
+2024-04-02,Luton Town,Arsenal,True
+2024-04-02,Tottenham Hotspur,Newcastle United,True
+2024-04-02,Wolverhampton Wanderers,Everton,True
+2024-04-06,Arsenal,Aston Villa,False
+2024-04-06,Everton,Burnley,False
+2024-04-09,Bournemouth,Manchester City,True
+2024-04-09,Brentford,Arsenal,True
+2024-04-09,Brighton and Hove Albion,Nottingham Forest,True
+2024-04-09,Chelsea,Fulham,True
+2024-04-09,Crystal Palace,Manchester United,True
+2024-04-09,Newcastle United,Sheffield United,True
+2024-04-13,Aston Villa,Burnley,False
+2024-04-13,Manchester United,Wolverhampton Wanderers,False
+2024-04-13,Sheffield United,Newcastle United,False
+2024-04-16,Bournemouth,Arsenal,True
+2024-04-16,Chelsea,Sheffield United,True
+2024-04-16,Crystal Palace,Wolverhampton Wanderers,True
+2024-04-16,Liverpool,Manchester City,True
+2024-04-16,Manchester United,Aston Villa,True
+2024-04-16,Nottingham Forest,Newcastle United,True
+2024-04-16,Tottenham Hotspur,West Ham United,True
+2024-04-20,Bournemouth,Burnley,False
+2024-04-20,Liverpool,West Ham United,False
+2024-04-20,Newcastle United,Brighton and Hove Albion,False
+2024-04-20,Nottingham Forest,Sheffield United,False
+2024-04-23,Aston Villa,Crystal Palace,True
+2024-04-23,Brentford,Bournemouth,True
+2024-04-23,Brighton and Hove Albion,Fulham,True
+2024-04-23,Burnley,Manchester United,True
+2024-04-23,Everton,Tottenham Hotspur,True
+2024-04-23,Liverpool,Sheffield United,True
+2024-04-23,Luton Town,Nottingham Forest,True
+2024-04-23,Manchester City,Arsenal,True
+2024-04-23,Newcastle United,Chelsea,True
+2024-04-23,Wolverhampton Wanderers,West Ham United,True
+2024-04-27,Brighton and Hove Albion,Brentford,False
+2024-04-27,Burnley,Crystal Palace,False
+2024-04-27,Chelsea,Nottingham Forest,False
+2024-04-27,Fulham,Liverpool,False
+2024-04-27,Luton Town,Newcastle United,False
+2024-04-27,Manchester United,Bournemouth,False
+2024-04-27,Tottenham Hotspur,Aston Villa,False
+2024-04-30,Arsenal,Fulham,True
+2024-04-30,Aston Villa,Sheffield United,True
+2024-04-30,Bournemouth,Manchester United,True
+2024-04-30,Brentford,Newcastle United,True
+2024-04-30,Crystal Palace,Manchester City,True
+2024-04-30,Everton,Wolverhampton Wanderers,True
+2024-04-30,Luton Town,Brighton and Hove Albion,True
+2024-04-30,Nottingham Forest,Liverpool,True
+2024-04-30,Tottenham Hotspur,Burnley,True
+2024-05-04,Aston Villa,Brighton and Hove Albion,False
+2024-05-04,Brentford,Nottingham Forest,False
+2024-05-04,Chelsea,Crystal Palace,False
+2024-05-04,Everton,Fulham,False
+2024-05-04,Manchester United,Luton Town,False
+2024-05-04,Sheffield United,Burnley,False
+2024-05-04,Wolverhampton Wanderers,Manchester City,False
+2024-05-07,Arsenal,Everton,True
+2024-05-07,Brentford,West Ham United,True
+2024-05-07,Crystal Palace,Sheffield United,True
+2024-05-07,Fulham,Manchester City,True
+2024-05-07,Liverpool,Burnley,True
+2024-05-07,Tottenham Hotspur,Brighton and Hove Albion,True
+2024-05-07,Wolverhampton Wanderers,Newcastle United,True
+2024-05-11,Burnley,Newcastle United,False
+2024-05-11,Crystal Palace,Fulham,False
+2024-05-11,Everton,Sheffield United,False
+2024-05-11,Liverpool,Manchester United,False
+2024-05-11,Luton Town,Aston Villa,False
+2024-05-11,Manchester City,Nottingham Forest,False
+2024-05-11,Tottenham Hotspur,Chelsea,False
+2024-05-11,West Ham United,Arsenal,False
+2024-05-14,Aston Villa,Fulham,True
+2024-05-14,Bournemouth,Newcastle United,True
+2024-05-14,Brentford,Tottenham Hotspur,True
+2024-05-14,Chelsea,Burnley,True
+2024-05-14,Everton,Liverpool,True
+2024-05-14,Luton Town,Crystal Palace,True
+2024-05-14,Manchester City,Sheffield United,True
+2024-05-14,Manchester United,Brighton and Hove Albion,True
+2024-05-14,West Ham United,Nottingham Forest,True
+2024-05-14,Wolverhampton Wanderers,Arsenal,True
+2024-05-18,Aston Villa,Nottingham Forest,False
+2024-05-18,Bournemouth,Fulham,False
+2024-05-18,Burnley,Arsenal,False
+2024-05-18,Everton,Brentford,False
+2024-05-18,Liverpool,Crystal Palace,False
+2024-05-18,Manchester City,Brighton and Hove Albion,False
+2024-05-18,Manchester United,Newcastle United,False
+2024-05-18,Tottenham Hotspur,Sheffield United,False
+2024-05-18,West Ham United,Luton Town,False
+2024-05-18,Wolverhampton Wanderers,Chelsea,False
